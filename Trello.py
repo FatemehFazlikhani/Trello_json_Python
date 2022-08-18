@@ -2,6 +2,7 @@ import urllib
 import json
 from urllib.request import urlopen
 import requests
+import pandas as pd
 
 
 with open('e8wQHAlz.json', 'rb') as json_file:
